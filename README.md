@@ -1,3 +1,3 @@
 # E-commerce site for mobile phones
-Made using html, css and js.
+_Made using html and css._
 Link for the site: https://buyaphonenow.netlify.app/
